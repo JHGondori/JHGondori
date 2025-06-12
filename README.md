@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHGondori)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JHGondori&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JHGondori&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JHGondori)](https://git.io/streak-stats)
 
