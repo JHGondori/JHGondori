@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Just For Fun :)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHGondori)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JHGondori&show_icons=true)
