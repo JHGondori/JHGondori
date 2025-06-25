@@ -4,11 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JHGondori&show_icons=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHGondori/JHGondori/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JHGondori/JHGondori/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JHGondori/JHGondori/output/pacman-contribution-graph.svg">
-</picture>
+![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)picture>
 
 <!--
 **JHGondori/JHGondori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
