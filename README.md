@@ -2,9 +2,14 @@
 
 ### Just For Fun :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHGondori)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JHGondori&show_icons=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHGondori/JHGondori/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JHGondori/JHGondori/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JHGondori/JHGondori/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <!--
 **JHGondori/JHGondori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
